@@ -34,21 +34,26 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![image](https://github.com/user-attachments/assets/3e1e7160-af96-4085-a89d-d2f9bffa2b09)
+![image](https://github.com/user-attachments/assets/338aa161-cecd-468e-8dd4-5968c99428bf)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![image](https://github.com/user-attachments/assets/b0909db3-bdd3-4d0c-9ac2-7cdc7e643900)
+![image](https://github.com/user-attachments/assets/fa6dc2dd-5745-49ae-8aa8-c3f3f619c07d)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![image](https://github.com/user-attachments/assets/759d116b-49b1-4ae5-a88f-7181565882a2)
+![image](https://github.com/user-attachments/assets/6d84289a-d018-4d27-b1fc-9becb42ec6f7)
+
 
 ## Output:
+![image](https://github.com/user-attachments/assets/fc58e606-4108-4e4a-bab4-60bb462e3773)
+![image](https://github.com/user-attachments/assets/48648760-140b-4718-8f29-12f4ae60cf63)
+![image](https://github.com/user-attachments/assets/b680d942-1c98-44ad-9cd6-1904ca74c710)
 
-### Name:
-### Register Number:
+
+### Name:Santhosh A L
+### Register Number:24900598
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
